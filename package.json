@@ -14,5 +14,6 @@
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-preset-env": "^1.5.1",
     "webpack": "^2.6.1"
-  }
+  },
+  "repository": "https://github.com/EQuimper/Youtube-Javascript-Quick-Tips-and-Tricks.git"
 }

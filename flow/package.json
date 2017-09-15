@@ -1,0 +1,19 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "- What is flow - How to start - Why use it - How use it with third party lib - Setup React project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow check",
+    "start": "babel-node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "flow-bin": "^0.54.1"
+  }
+}
